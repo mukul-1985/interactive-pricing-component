@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/mukul-1985/interactive-pricing-component
+- Live Site URL: https://mukul-1985.github.io/interactive-pricing-component/
 
 
 
@@ -24,5 +24,5 @@ Mukul Jain
 
 - Website: 
 - Frontend Mentor: h
-- Github: 
-- LinkedIn: 
+- Github: https://github.com/mukul-1985
+- LinkedIn: https://www.linkedin.com/in/mukul-jain-0943b369/
